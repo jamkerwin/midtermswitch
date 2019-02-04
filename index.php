@@ -1,6 +1,6 @@
 <?php
 $favcolor = "red";
-
+ echo "<body style='background-color:red'>";
 switch ($favcolor) {
     case "red":
         echo "Your favorite color is red!";
